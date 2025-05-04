@@ -1,10 +1,10 @@
-# Chromium URL Modifier Extension
+# VIT Chennai Library Egateway Redirect Extension
 
-This is a simple Chromium extension that modifies the current tab's URL when the extension icon is clicked and redirects to the modified URL.
+This is a minimalist Chromium extension that redirects the current tab's URL to the VIT Chennai library egateway version when the extension icon is clicked.
 
 ## Features
 
-- Immediately redirects the current tab's URL from "http" to "https" upon clicking the extension icon.
+- Instantly rewrites the current tab's URL to route through the VIT Chennai library egateway (`*.egateway.chennai.vit.ac.in`).
 
 ## Installation
 
@@ -17,12 +17,8 @@ This is a simple Chromium extension that modifies the current tab's URL when the
 ## Usage
 
 - Click on the extension icon in the toolbar.
-- The extension will automatically modify the URL and redirect to the new URL.
+- The extension will automatically rewrite the URL and redirect to the VIT Chennai library egateway version of the site.
 
 ## Contributing
 
-Feel free to submit issues or pull requests for improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License.
+Feel free to submit issues or pull requests for improvements or bug fixes. Contact me if you are interested to contribute but don't know how to.
