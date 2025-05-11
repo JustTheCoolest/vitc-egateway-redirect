@@ -2,6 +2,10 @@
 
 This is a minimalist Chromium extension that redirects the current tab's URL to the VIT Chennai library egateway version when the extension icon is clicked.
 
+## Demonstration
+
+https://youtu.be/PKIpUEOEdUA
+
 ## Features
 
 - Instantly rewrites the current tab's URL to route through the VIT Chennai library egateway (`*.egateway.chennai.vit.ac.in`).
